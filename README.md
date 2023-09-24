@@ -4,4 +4,6 @@
 # Shortcuts:
 Ctrl+S - Save and move to next image.
 
+---
+
 if the image preview is larger than the windows adjust 'scaleFactor' in main.py
